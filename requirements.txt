@@ -1,0 +1,10 @@
+torch
+torchvision
+split-folders
+tqdm
+optuna
+joblib
+timeit
+matplotlib
+torchmetrics
+mlxtend
