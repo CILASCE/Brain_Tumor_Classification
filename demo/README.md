@@ -31,4 +31,3 @@ This `demo/` directory contains the source code used to build the Hugging Face S
 
 
 > \*\*Note on Model Weights:\*\* The actual trained model weights (`brain\_tumor\_classifier.pth` - 773 MB) are not hosted in this GitHub repository due to file size limits. They are stored and loaded directly within the Hugging Face Space.
-
