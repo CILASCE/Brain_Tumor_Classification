@@ -1,4 +1,4 @@
-\# 🚀 Brain Tumor Classifier - Live Demo
+# 🚀 Brain Tumor Classifier - Live Demo
 
 
 
@@ -6,27 +6,27 @@ The model has been deployed as a web application using Hugging Face Spaces! You 
 
 
 
-\## 🌐 Try the Live App
+## 🌐 Try the Live App
 
 👉 \*\*\[Click here to open the Hugging Face Space](https://huggingface.co/spaces/CILASCE/Brain\_Tumor\_Classifier)\*\*
 
 
 
-\## 📂 About this folder
+## 📂 About this folder
 
 This `demo/` directory contains the source code used to build the Hugging Face Space UI. It is included here for version control and to showcase the implementation.
 
 
 
-\### Files included:
+### Files included:
 
-\* `app.py`: The main application script (Gradio interface).
+* `app.py`: The main application script (Gradio interface).
 
-\* `model\_architecture.py`: The script defining the PyTorch model structure.
+* `model\_architecture.py`: The script defining the PyTorch model structure.
 
-\* `requirements.txt`: Dependencies required to run the web app.
+* `requirements.txt`: Dependencies required to run the web app.
 
-\* `examples/`: Sample MRI scans that you can use to test the model.
+* `examples/`: Sample MRI scans that you can use to test the model.
 
 
 
