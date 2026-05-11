@@ -37,7 +37,7 @@ The custom-designed architecture comprises a high-depth feature extraction modul
 
 ---
 
-## 🧪 Automated Hyperparameter Optimization
+## 🧪 Automated Hyperparameters Optimization
 To reach the absolute optimal configuration, the model's architecture and training settings were tuned using the **Tree-structured Parzen Estimator (TPE)** algorithm via the **Optuna** framework.
 
 | Hyperparameter | Optimized Value |
